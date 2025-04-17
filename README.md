@@ -24,7 +24,7 @@ git --version
 
 ```bash
 #powershell
-git clone https://github.com/brenoportella/backupsaftonline
+git clone https://github.com/brenoportella/backup_saftonline
 cd backupsaftonline
 python -m venv venv
 .\venv\Scripts\activate
@@ -36,7 +36,7 @@ python backup.py
 ### LINUX INSTALLATION
 
 ```bash
-git clone https://github.com/brenoportella/backupsaftonline
+git clone https://github.com/brenoportella/backup_saftonline
 cd backupsaftonline
 python3 -m venv venv
 source venv/bin/activate
