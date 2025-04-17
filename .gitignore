@@ -5,3 +5,4 @@ venv/
 .com.microsoft.*
 nif_saft.txt
 *.log
+*.xls
