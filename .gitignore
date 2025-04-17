@@ -1,0 +1,7 @@
+credencial_postgres.txt
+log.txt
+__pycache__/
+venv/
+.com.microsoft.*
+nif_saft.txt
+*.log
