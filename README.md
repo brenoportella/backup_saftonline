@@ -2,7 +2,7 @@
 
 A webscrapy to store all the information available on saftonline daily.
 
-## REQUIREMENTS
+## Requirements
 
 Before starting, make sure you have Python, pip and Git installed on your system.
 - You can check by running:
